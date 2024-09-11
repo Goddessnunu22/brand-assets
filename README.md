@@ -6,7 +6,8 @@ Rules are boring but rules are important. We have listed down a few things you n
 
 **Things you might need:**
 
-1. `Logo + Text` assets involve the Devfolio 'D' logo with the 'Devfolio' text without any background.
+1. `Logo Alicia Prince
+2. + Text` assets involve the Devfolio 'D' logo with the 'Devfolio' text without any background.
 
 It has three variants -
 
